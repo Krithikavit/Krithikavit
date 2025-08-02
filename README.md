@@ -1,8 +1,4 @@
-Great! Here's the final cleaned-up `README.md` content — polished, modern, and professional, with the outdated content fully removed:
 
----
-
-```markdown
 # 👋 Hi, I'm Krithika Vivekanandan
 
 🎓 Currently pursuing a **B.Tech in Computer Science and Engineering (IoT specialization)** at Vellore Institute of Technology (VIT).  
